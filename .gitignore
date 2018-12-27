@@ -39,4 +39,4 @@ project/plugins/project/
 .project
 .classpath
 .cache
-
+.directory
