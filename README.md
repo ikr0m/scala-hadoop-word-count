@@ -57,6 +57,7 @@ Now submit a job to Hadoop with the following command:
 
 You can see the output by using the following command:
 > bin/hadoop fs -ls output_dir/
+
 > less output_dir/part-00000
 
 This project based on following nice tutorial https://dzone.com/articles/hadoop-word-count-program-innbspscala
